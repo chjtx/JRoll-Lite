@@ -1,0 +1,22 @@
+{
+  "name": "jroll-lite",
+  "version": "2.4.11",
+  "description": "Smooth scrolling for the mobile web",
+  "main": "jroll-lite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chjtx/JRoll-Lite.git"
+  },
+  "keywords": [
+    "jroll"
+  ],
+  "author": "BarZu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chjtx/JRoll-Lite/issues"
+  },
+  "homepage": "https://github.com/chjtx/JRoll-Lite#readme"
+}
